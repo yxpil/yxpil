@@ -4,4 +4,4 @@ https://github.com/yxpil
 爱发电
 https://ifdian.net/a/yxpillow
 网站
-yxpil.com
+https://yxpil.com
