@@ -58,10 +58,7 @@ Package repos for every platform: Scoop / Homebrew / APT / pacman / dnf — see 
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,react,nodejs,electronjs,python,java,c,git,githubactions&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=rust,ts,react,nodejs,electronjs,python,java,c,git,githubactions&theme=light" />
-</picture>
+
 
 <br>
 
