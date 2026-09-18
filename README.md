@@ -9,6 +9,7 @@
 [![Releases](https://img.shields.io/github/v/release/yxpil/BrainTentacle?style=flat-square&label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/yxpil/BrainTentacle/releases)
 [![GitHub followers](https://img.shields.io/github/followers/yxpil?style=flat-square&label=Followers)](https://github.com/yxpil?tab=followers)
 [![Repo count](https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyxpil)](https://github.com/yxpil?tab=repositories)
+[![Visitors](https://komarev.com/ghpvc/?username=yxpil&style=flat-square&color=blueviolet&label=%E8%AE%BF%E5%AE%A2)](https://github.com/yxpil)
 
 </div>
 
@@ -91,10 +92,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yxpil&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxpil&layout=compact&hide_border=true&langs_count=8" alt="langs" />
+<img height="165" src="https://github-stats.marchewczyk.eu/api?username=yxpil&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="stats" />
+<img height="165" src="https://github-stats.marchewczyk.eu/api/top-langs/?username=yxpil&layout=compact&langs_count=8&theme=default" alt="top-langs" />
+<img height="165" src="https://streak-stats.demolab.com?user=yxpil&short_numbers=true&theme=default" alt="streak" />
 
-[![streak](https://streak-stats.demolab.com?user=yxpil&hide_border=true&short_numbers=true)](https://github.com/yxpil)
+</div>
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/yxpil/yxpil/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
