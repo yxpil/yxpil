@@ -4,7 +4,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=6A5AF9&center=true&vCenter=true&width=560&lines=AI+agents+shouldn't+live+in+someone+else's+cloud.;Data+stays+local.+Tools+grow+by+themselves." alt="typing" />
 <br>
-  ![Visitors](https://komarev.com/ghpvc/?username=yxpil&color=6a5af9&style=flat-square&abbreviated=true)
+
 </div>
 
 <br>
