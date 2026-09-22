@@ -13,7 +13,7 @@
 
 Independent developer focused on **local-first AI agents** — building a desktop agent that runs on your machine and grows by itself: tools, memory, skills, MCP extensions, remote access. All data stays local.
 
-**Now building** [BIT](https://github.com/yxpil/BrainTentacle) · a local-first AI agent hub ｜ **Stack** Rust · Electron · React · TypeScript
+**Now building** [BrainTentacle](https://github.com/yxpil/BrainTentacle) · a local-first AI agent hub ｜ **Stack** Rust · Electron · React · TypeScript
 
 <br>
 
