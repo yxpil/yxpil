@@ -3,16 +3,18 @@
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=6A5AF9&center=true&vCenter=true&width=620&lines=AI+agents+shouldn't+live+in+someone+else's+cloud.;Data+stays+local.+Tools+grow+by+themselves.;Build+it+in+Rust%2C+ship+it+everywhere." alt="typing" />
-<br>
+  <br>
+  <img src="assets/emoji/peeking_26.png" height="95" alt="peeking cat" />
+  <br>
 
-**[BrainTentacle](https://github.com/yxpil/BrainTentacle)** · **[DrawLib](https://yxpil.github.io/DrawLib/)** · **[yxpil.com](https://yxpil.com)** ｜ 🐧 Kunming, Asia
+**[BrainTentacle](https://github.com/yxpil/BrainTentacle)** · **[DrawLib](https://yxpil.github.io/DrawLib/)** · **[yxpil.com](https://yxpil.com)** ｜ 🐧 Kunming, Asia <img src="assets/emoji/shy_04.png" height="28" alt="shy" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=yxpil&style=flat-square&color=6a5af9&label=profile+views" alt="views" />
 </div>
 
 <br>
 
-## About
+## About <img src="assets/emoji/happy_01.png" height="32" alt="happy" />
 
 Independent developer. I build **local-first AI agents** that run on your own machine and grow by themselves — tools, memory, skills, MCP extensions, computer control. Nothing important leaves the device.
 
@@ -28,7 +30,7 @@ Independent developer. I build **local-first AI agents** that run on your own ma
 
 <br>
 
-## Tech Stack
+## Tech Stack <img src="assets/emoji/proud_08.png" height="32" alt="proud" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -45,7 +47,7 @@ Independent developer. I build **local-first AI agents** that run on your own ma
 
 <br>
 
-## Featured
+## Featured <img src="assets/emoji/wicked_17.png" height="32" alt="wicked" />
 
 ### [BIT · BrainTentacle](https://github.com/yxpil/BrainTentacle) → [osbt.space](https://osbt.space)
 
@@ -95,7 +97,7 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 <br>
 
-## Project Map
+## Project Map <img src="assets/emoji/surprised_05.png" height="32" alt="surprised" />
 
 <details open>
 <summary><b>🧠 AI Agents &amp; MCP</b> — the BIT ecosystem</summary>
@@ -184,7 +186,7 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 <br>
 
-## Stats
+## Stats <img src="assets/emoji/dizzy_27.png" height="32" alt="dizzy" />
 
 <div align="center">
   <picture>
@@ -208,7 +210,60 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 <br>
 
-## Links
+## Sticker Pack <img src="assets/emoji/cutesy_21.png" height="32" alt="cutesy" />
+
+<details>
+<summary><b>🐱 My sticker pack — 30 moods of the cat</b> <i>(click to expand)</i></summary>
+<br>
+
+<table>
+<tr>
+<td align="center"><img src="assets/emoji/happy_01.png" height="72" alt="happy" /><br><sub>happy</sub></td>
+<td align="center"><img src="assets/emoji/love_11.png" height="72" alt="love" /><br><sub>love</sub></td>
+<td align="center"><img src="assets/emoji/shy_04.png" height="72" alt="shy" /><br><sub>shy</sub></td>
+<td align="center"><img src="assets/emoji/surprised_05.png" height="72" alt="surprised" /><br><sub>surprised</sub></td>
+<td align="center"><img src="assets/emoji/sleepy_06.png" height="72" alt="sleepy" /><br><sub>sleepy</sub></td>
+<td align="center"><img src="assets/emoji/cry_03.png" height="72" alt="cry" /><br><sub>cry</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/emoji/angry_02.png" height="72" alt="angry" /><br><sub>angry</sub></td>
+<td align="center"><img src="assets/emoji/proud_08.png" height="72" alt="proud" /><br><sub>proud</sub></td>
+<td align="center"><img src="assets/emoji/grievance_09.png" height="72" alt="grievance" /><br><sub>grievance</sub></td>
+<td align="center"><img src="assets/emoji/cheer_10.png" height="72" alt="cheer" /><br><sub>cheer</sub></td>
+<td align="center"><img src="assets/emoji/thanks_12.png" height="72" alt="thanks" /><br><sub>thanks</sub></td>
+<td align="center"><img src="assets/emoji/bye_13.png" height="72" alt="bye" /><br><sub>bye</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/emoji/speechless_14.png" height="72" alt="speechless" /><br><sub>speechless</sub></td>
+<td align="center"><img src="assets/emoji/thinking_15.png" height="72" alt="thinking" /><br><sub>thinking</sub></td>
+<td align="center"><img src="assets/emoji/wicked_17.png" height="72" alt="wicked" /><br><sub>wicked</sub></td>
+<td align="center"><img src="assets/emoji/eating_18.png" height="72" alt="eating" /><br><sub>eating</sub></td>
+<td align="center"><img src="assets/emoji/bubbletea_19.png" height="72" alt="bubble tea" /><br><sub>bubble tea</sub></td>
+<td align="center"><img src="assets/emoji/scared_20.png" height="72" alt="scared" /><br><sub>scared</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/emoji/cutesy_21.png" height="72" alt="cutesy" /><br><sub>cutesy</sub></td>
+<td align="center"><img src="assets/emoji/wailing_22.png" height="72" alt="wailing" /><br><sub>wailing</sub></td>
+<td align="center"><img src="assets/emoji/disgusted_23.png" height="72" alt="disgusted" /><br><sub>disgusted</sub></td>
+<td align="center"><img src="assets/emoji/fingerheart_24.png" height="72" alt="finger heart" /><br><sub>finger heart</sub></td>
+<td align="center"><img src="assets/emoji/cheers_25.png" height="72" alt="cheers" /><br><sub>cheers</sub></td>
+<td align="center"><img src="assets/emoji/peeking_26.png" height="72" alt="peeking" /><br><sub>peeking</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/emoji/dizzy_27.png" height="72" alt="dizzy" /><br><sub>dizzy</sub></td>
+<td align="center"><img src="assets/emoji/frustrated_28.png" height="72" alt="frustrated" /><br><sub>frustrated</sub></td>
+<td align="center"><img src="assets/emoji/praying_29.png" height="72" alt="praying" /><br><sub>praying</sub></td>
+<td align="center"><img src="assets/emoji/stomping_32.png" height="72" alt="stomping" /><br><sub>stomping</sub></td>
+<td align="center"><img src="assets/emoji/facepalm_31.png" height="72" alt="facepalm" /><br><sub>facepalm</sub></td>
+<td align="center"><img src="assets/emoji/confused_07.png" height="72" alt="confused" /><br><sub>confused</sub></td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+## Links <img src="assets/emoji/love_11.png" height="32" alt="love" />
 
 - **BIT** — [osbt.space](https://osbt.space) ｜ wiki: [installation & usage](https://github.com/yxpil/BrainTentacle/wiki)
 - **Try DrawLib in your browser** — [yxpil.github.io/DrawLib](https://yxpil.github.io/DrawLib/)
@@ -219,8 +274,10 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 <div align="center">
 
+<img src="assets/emoji/bye_13.png" height="100" alt="bye cat" />
+
 **Data stays local. Tools grow by themselves.**
 
-_If BIT is useful to you, give [BrainTentacle](https://github.com/yxpil/BrainTentacle) a Star_
+_If BIT is useful to you, give [BrainTentacle](https://github.com/yxpil/BrainTentacle) a Star_ <img src="assets/emoji/fingerheart_24.png" height="28" alt="finger heart" />
 
 </div>
