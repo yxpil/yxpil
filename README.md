@@ -9,7 +9,7 @@
 
 **[BrainTentacle](https://github.com/yxpil/BrainTentacle)** · **[DrawLib](https://yxpil.github.io/DrawLib/)** · **[yxpil.com](https://yxpil.com)** ｜ 🐧 Kunming, Asia <img src="assets/emoji/shy_04.png" height="28" alt="shy" />
 <br>
-<img src="https://komarev.com/ghpvc/?username=yxpil&style=flat-square&color=6a5af9&label=profile+views" alt="views" />
+
 </div>
 
 <br>
