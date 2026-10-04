@@ -28,6 +28,13 @@ Independent developer. I build **local-first AI agents** that run on your own ma
   <img src="https://img.shields.io/badge/followers-51-6a5af9?style=flat-square" alt="followers" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/yxpil/yxpil">
+    <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=yxpil/yxpil" alt="gh-card — 本仓库名片" />
+  </a>
+  <sub>本名片由自建的 <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> 服务生成 · Cloudflare Workers</sub>
+</div>
+
 <br>
 
 ## Tech Stack <img src="assets/emoji/proud_08.png" height="32" alt="proud" />
@@ -269,6 +276,7 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 - **Try DrawLib in your browser** — [yxpil.github.io/DrawLib](https://yxpil.github.io/DrawLib/)
 - **Personal site** — [yxpil.com](https://yxpil.com)
 - **Support** — [爱发电](https://ifdian.net/a/yxpillow)
+- **gh-card** — 粉色手写体 README 仓库名片服务，[alittlecatgirlpanel.yxp.hk](https://alittlecatgirlpanel.yxp.hk)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5af9&height=110&section=footer" />
 
