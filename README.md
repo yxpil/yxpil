@@ -117,8 +117,6 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 | [TentacleTool](https://github.com/yxpil/TentacleTool) | The agent's MCP tool collection |
 | [BITSDK](https://github.com/yxpil/BITSDK) | Embed BIT into your own program |
 | [sapni](https://github.com/yxpil/sapni) | SAPNI_AGENT — multimodal agent framework |
-| [StickAI](https://github.com/yxpil/StickAI) | An agent framework that bootstraps, grows and replicates itself |
-| [DocDO](https://github.com/yxpil/DocDO) | AI IDE specialised in editing Office documents |
 
 </details>
 
@@ -134,7 +132,6 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 | [ADONWORD](https://github.com/yxpil/ADONWORD) | Active defence for agents |
 | [HOWCUEME](https://github.com/yxpil/HOWCUEME) | Conditional self-wakeup for agents |
 | [MemoryPool](https://github.com/yxpil/MemoryPool) | Memory pool for agents |
-| [TimeReversalAntivirus](https://github.com/yxpil/TimeReversalAntivirus) | Antivirus built on recovery points + AI analysis |
 | [CloudSH](https://github.com/yxpil/CloudSH) | Cloud SSH that survives flaky networks |
 | [ROMbay](https://github.com/yxpil/ROMbay) | Load SQL into RAM with a security audit trail |
 | [Fake_SSH_Play](https://github.com/yxpil/Fake_SSH_Play) | A fake SSH that only plays video |
@@ -172,7 +169,6 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 | [Nebula](https://github.com/yxpil/Nebula) | Database designed for long-term role-play |
 | [Styx](https://github.com/yxpil/Styx) | LLM-based role-playing program |
 | [PILScript](https://github.com/yxpil/PILScript) | Use interpreted languages from many host languages |
-| [RLBCM](https://github.com/yxpil/RLBCM) | Rust load-balancing cluster module |
 | [MQ](https://github.com/yxpil/MQ) | Event-driven modular messaging framework (Spring Boot + JPA) |
 | [PLocalSwitch](https://github.com/yxpil/PLocalSwitch) | Local metering / model relay station |
 | [DOCPI](https://github.com/yxpil/DOCPI) | Architecture-document collaboration platform |
