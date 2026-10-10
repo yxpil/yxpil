@@ -111,12 +111,14 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 | Repo | What it is |
 | --- | --- |
-| [BrainTentacle](https://github.com/yxpil/BrainTentacle) | Desktop agent hub (Tauri + Rust + React) — the main project |
-| [bit](https://github.com/yxpil/bit) | Local-first agent core: tool registry / MCP / skills / remote API |
-| [bit-mobile](https://github.com/yxpil/bit-mobile) | Android companion — QR pairing, LAN · IPv6 · relay fallback |
-| [TentacleTool](https://github.com/yxpil/TentacleTool) | The agent's MCP tool collection |
-| [BITSDK](https://github.com/yxpil/BITSDK) | Embed BIT into your own program |
-| [sapni](https://github.com/yxpil/sapni) | SAPNI_AGENT — multimodal agent framework |
+| BrainTentacle | Desktop agent hub (Tauri + Rust + React) — the main project |
+| bit 📦 | Archived — former BIT core, renamed to BrainTentacle |
+| bit-mobile | Android companion — QR pairing, LAN · IPv6 · relay fallback |
+| TentacleTool | The agent's MCP tool collection (monorepo, zero-dependency Node) |
+| BITSDK | Embed BIT into your own program — Java / JS / Go / Rust / C / C# / Lua |
+| ADB | Agent Debug Bridge — API forwarder with SQLite logging & token stats |
+| ChatUI | Zero-backend OpenAI-compatible chat client — 15 providers, offline-ready |
+| sapni 📦 | Archived — self-evolving coding assistant, inherited by BIT |
 
 </details>
 
@@ -125,18 +127,22 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 | Repo | What it is |
 | --- | --- |
-| [SECFORGE](https://github.com/yxpil/SECFORGE) | Security MCP server — 29 tools over Streamable HTTP |
-| [PANOPTES](https://github.com/yxpil/PANOPTES) | Screen-operation MCP server — screenshots + mouse & keyboard |
-| [Neton](https://github.com/yxpil/Neton) | Agent tooling for operating network systems |
-| [Firelin](https://github.com/yxpil/Firelin) | Network penetration toolkit for agents |
-| [ADONWORD](https://github.com/yxpil/ADONWORD) | Active defence for agents |
-| [HOWCUEME](https://github.com/yxpil/HOWCUEME) | Conditional self-wakeup for agents |
-| [MemoryPool](https://github.com/yxpil/MemoryPool) | Memory pool for agents |
-| [CloudSH](https://github.com/yxpil/CloudSH) | Cloud SSH that survives flaky networks |
-| [ROMbay](https://github.com/yxpil/ROMbay) | Load SQL into RAM with a security audit trail |
-| [Fake_SSH_Play](https://github.com/yxpil/Fake_SSH_Play) | A fake SSH that only plays video |
-| [PILHOME](https://github.com/yxpil/PILHOME) | Home security hub |
-| [ADB](https://github.com/yxpil/ADB) | Agent Debug Bridge |
+| SECFORGE | Security MCP server — 29 tools over Streamable HTTP |
+| PANOPTES | Screen-operation MCP server — screenshots + mouse & keyboard |
+| Neton | Local network observation & diagnostics for agents |
+| Firelin | Authorized network assessment toolkit for agents |
+| ADONWORD | Active defence sentinel for agents |
+| HOWCUEME | Conditional self-wakeup daemon for agents |
+| MemoryPool | Cross-process persistent memory pool — CLI / HTTP / MCP |
+| CloudSH | Cloud SSH that survives flaky networks |
+| sniffgate | Multi-node sniffing gateway with hot-standby failover |
+| maylin | Docker-free service cluster manager (Rust) |
+| ULocker | USB-bound AES-256-GCM encryption tool |
+| PILHOME | Local-first home security hub with edge AI |
+| PILSoftFlow | Auto shutdown + Wake-on-LAN service |
+| PILALTU | One port, many services — cookie-routed gateway |
+| ROMbay | Load SQL into RAM with a security audit trail |
+| Fake_SSH_Play | A fake SSH that only plays Bad Apple |
 
 </details>
 
@@ -145,18 +151,20 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 | Repo | What it is |
 | --- | --- |
-| [DrawLib](https://github.com/yxpil/DrawLib) | Painting studio in the browser — 19 tools, 120 filters, plugins |
-| [whitelib](https://github.com/yxpil/whitelib) | Color-block transparency tool (PyQt5) |
-| [VmTyper](https://github.com/yxpil/VmTyper) | Virtual keyboard typing for pages that block paste |
-| [CQRC](https://github.com/yxpil/CQRC) | Color QR code |
-| [WaterTool](https://github.com/yxpil/WaterTool) | LSB image steganography with a PyQt6 GUI |
-| [A-PILCat](https://github.com/yxpil/A-PILCat) | Meme / sticker maker |
-| [PILCOMMIX](https://github.com/yxpil/PILCOMMIX) · [HUMIX](https://github.com/yxpil/HUMIX) | Audio synthesizers — one classic, one model-driven |
-| [PILSEOCORE](https://github.com/yxpil/PILSEOCORE) | Multithreaded SEO crawler / local search index |
-| [PILALTU](https://github.com/yxpil/PILALTU) | One port, many services — routed by cookie |
-| [PILSoftFlow](https://github.com/yxpil/PILSoftFlow) · [PILPublisher](https://github.com/yxpil/PILPublisher) | Dynamic service start / stop · file sharing |
-| [PILinstaller](https://github.com/yxpil/PILinstaller) | My own unsigned installer |
-| [ToolsForMy](https://github.com/yxpil/ToolsForMy) | Personal Java utility belt |
+| DrawLib | Painting studio in the browser — 19 tools, 120 filters, plugins |
+| drawbuddy | Diagram workbench — flowcharts / sequence / mind maps (Mermaid + Chart.js) |
+| ControlEcharts | Stats chart workbench — 38 chart types, CSV import, SVG export |
+| online-piano | Online MIDI synth piano — 36 voices, Web Audio realtime |
+| CQRC | Color QR codes from scratch — C# & pure JS, zero dependencies |
+| whitelib | Color-block transparency tool (PyQt5) |
+| WaterTool | LSB image steganography with a PyQt6 GUI |
+| VmTyper | Simulated keyboard typing for paste-blocked inputs |
+| A-PILCat | Meme / sticker maker — 250 stickers, full generation pipeline |
+| PILCOMMIX · HUMIX | Audio synthesizers — one classic DSP, one voice-driven |
+| PILSEOCORE | Multithreaded SEO crawler / local search index |
+| PILBroadcast · PILPublisher | LAN screen broadcast · file sharing (Tauri v2) |
+| PILinstaller | My own unsigned Windows installer generator |
+| ToolsForMy | Personal Java utility belt |
 
 </details>
 
@@ -165,14 +173,16 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 | Repo | What it is |
 | --- | --- |
-| [MightBe](https://github.com/yxpil/MightBe) | Neural-network database of relational words |
-| [Nebula](https://github.com/yxpil/Nebula) | Database designed for long-term role-play |
-| [Styx](https://github.com/yxpil/Styx) | LLM-based role-playing program |
-| [PILScript](https://github.com/yxpil/PILScript) | Use interpreted languages from many host languages |
-| [MQ](https://github.com/yxpil/MQ) | Event-driven modular messaging framework (Spring Boot + JPA) |
-| [PLocalSwitch](https://github.com/yxpil/PLocalSwitch) | Local metering / model relay station |
-| [DOCPI](https://github.com/yxpil/DOCPI) | Architecture-document collaboration platform |
-| [SPNIX](https://github.com/yxpil/SPNIX) | A tiny Rust agent |
+| MightBe | Neural-network database of relational words |
+| Nebula | Encrypted local memory / notes retrieval engine |
+| Styx | LLM role-play kernel with pluggable ports |
+| styx-vision | Local image understanding for text-only LLMs |
+| PILScript | JS-style scripting language with dlopen FFI |
+| MQ | Event-driven modular messaging framework (Spring Boot) |
+| PLocalSwitch | Local LLM API gateway — OpenAI contract, 13 upstream protocols |
+| DOCPI | Self-hosted architecture-doc collaboration platform |
+| SPNIX | A tiny Rust terminal agent |
+| TalentMarket | Campus hiring platform — students / teachers / companies |
 
 </details>
 
@@ -181,13 +191,26 @@ A paint studio that is just a folder of files — **no build, no dependency, no 
 
 | Repo | Channel |
 | --- | --- |
-| [scoop-bit](https://github.com/yxpil/scoop-bit) | Windows · Scoop bucket |
-| [homebrew-bit](https://github.com/yxpil/homebrew-bit) | macOS · Homebrew tap |
-| [apt-repo](https://github.com/yxpil/apt-repo) · [dnf-repo](https://github.com/yxpil/dnf-repo) · [pacman-repo](https://github.com/yxpil/pacman-repo) | Linux · APT / DNF / pacman |
+| scoop-bit | Windows · Scoop bucket |
+| homebrew-bit | macOS · Homebrew tap |
+| apt-repo · dnf-repo · pacman-repo | Linux · APT / DNF / pacman |
+| winget-pkgs (fork) | Windows · Winget manifests |
+
+</details>
+
+<details>
+<summary><b>🍴 Forks</b></summary>
+
+| Repo | What it is |
+| --- | --- |
+| Compositor | The Photoshop alternative for Mac (Swift) |
+| awesome-mcp-clients · awesome-mcp-servers | MCP collections |
 
 </details>
 
 <br>
+
+## Stats
 
 ## Stats <img src="assets/emoji/dizzy_27.png" height="32" alt="dizzy" />
 
